@@ -22,3 +22,6 @@
 
 ## Diversos comandos com leitura de telemetria e ajustes de delay e o mínimo de tempo que o valor deve estar On
 [How to make your Taranis read out low voltage](https://www.youtube.com/watch?v=2xt623VAMEk)
+
+## 3 formas de fazer backups do OpenTx
+[OpenTX Companion Step #1 (BACKUP EVERYTHING!)](https://www.youtube.com/watch?v=vRn9UNujsMI)
