@@ -25,3 +25,6 @@
 
 ## 3 formas de fazer backups do OpenTx
 [OpenTX Companion Step #1 (BACKUP EVERYTHING!)](https://www.youtube.com/watch?v=vRn9UNujsMI)
+
+## Binding receptor Frsky XSR
+[How To Bind FrSky XSR Receiver](https://www.youtube.com/watch?v=zcsCMYU7--M)
