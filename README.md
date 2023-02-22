@@ -5,13 +5,13 @@
 
 ## Dica do Bardwell sobre Arm Switch com proteção
 
-[](figura1.jpg)
+[](/figura1.jpg)
 
-[](figura2.jpg)
+[](/figura2.jpg)
 
-[](figura3.jpg)
+[](/figura3.jpg)
 
-[](figura4.jpg)
+[](/figura4.jpg)
 
 
 ### Lembrar de anotar em detalhes sobre como funciona, porque explica vários recursos como Edge e Sticky
