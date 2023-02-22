@@ -5,7 +5,9 @@
 
 ## Dica do Bardwell sobre Arm Switch com proteção
 
-Lembrar de anotar em detalhes como funciona porque explica vários recursos como Edge e Sticky
+[![](figura1.jpg)1(#)
+
+Lembrar de anotar em detalhes sobre como funciona porque explica vários recursos como Edge e Sticky
 
 [Link](https://www.youtube.com/watch?v=bv3VJ1jznw8)
 
