@@ -28,3 +28,6 @@
 
 ## Binding receptor Frsky XSR
 [How To Bind FrSky XSR Receiver](https://youtu.be/zcsCMYU7--M?t=162)
+
+## Criar tracks personalizadas com text to speech
+[Installing and Creating Sound Packs for your OpenTX or ETHOS Transmitter](https://www.youtube.com/watch?v=2AcB_jrFFK4&t=2s)
